@@ -10,7 +10,7 @@
   },
   "main": "gulpfile.js",
   "scripts": {
-    "build": "gulp"
+    "start": "gulp"
   },
   "devDependencies": {
     "color": "0.11.3",
